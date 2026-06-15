@@ -16,4 +16,4 @@ Qualquer dúvida entre em contato
 <a href="mailto:emanuel.varjao@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/
 
 ![](https://media.tenor.com/3RbvKNm4RAkAAAAj/jojo.gif)
-![](https://media1.tenor.com/m/JhOV9dbk0pAAAAAC/jojo%27s-bizarre-adventure-golden-wind.gif)
+
