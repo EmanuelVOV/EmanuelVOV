@@ -1,19 +1,70 @@
-# Sobre mim
+# 🧑‍💻 Olá, eu sou o Emanuel!
 
+👋 Bem-vindo ao meu cantinho de código no GitHub!  
+Sou aluno da **rede estadual do Paraná** e estou descobrindo o incrível mundo da programação.
 
-- 👋 Olá me chamo Emanuel, sou aluno da rede Estadual do Paraná.
-- 👀 Estou interessado em aprender novas linguagens de programação e aprimorar o conhecimento na área.
-- 🌱 Atualmente estou cursando
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-👉 Atualmente em sala estamos estudando
-![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## 🎯 Sobre mim
 
-Qualquer dúvida entre em contato
-<a href="mailto:emanuel.varjao@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/
+- 📍 Paraná, Brasil  
+- 🎓 Estudante do Ensino Fundamental 2  
+- 💡 Curioso por tecnologia e criação de jogos  
+- 🚀 Objetivo: aprender a criar meus próprios sites e projetos
 
-![](https://media.tenor.com/3RbvKNm4RAkAAAAj/jojo.gif)
+---
 
+## 🚀 O que estou aprendendo agora
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+> 🏗️ Construindo as primeiras páginas web!
+
+---
+
+## 📚 Na escola com a turma...
+
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=Scratch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+> 🧠 Criando jogos no Scratch e dando os primeiros passos com JavaScript!
+
+---
+
+## 🌟 Meus projetos
+
+| Projeto | Descrição | Status |
+|---------|-----------|--------|
+| 🎮 Jogo no Scratch | Um joguinho divertido criado na aula | Em breve |
+| 🖥️ Meu primeiro site | Página simples com HTML e CSS | Em breve |
+| ✨ Aprendendo JS | Desafios de lógica com JavaScript | Em breve |
+
+---
+
+## 📊 Minhas estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=onedark&hide=stars&count_private=true)
+
+> ⚠️ *Troque `SEU_USUARIO` pelo seu nome de usuário do GitHub*
+
+---
+
+## 📫 Contato
+
+Quer trocar uma ideia ou me dar uma dica? Mande um e-mail!
+
+[![E-mail](https://img.shields.io/badge/-emanuel.varjao@escola.pr.gov.br-0066cc?style=flat-square&logo=gmail&logoColor=white)](mailto:emanuel.varjao@escola.pr.gov.br)
+
+---
+
+## 🎉 Curiosidade divertida
+
+![GIF animado](https://media.tenor.com/3RbvKNm4RAkAAAAj/jojo.gif)
+
+*"Programar é como resolver um quebra-cabeça... só que o computador é seu parceiro!"* 🧩
+
+---
+
+⭐ **Obrigado pela visita!** Volte sempre para ver meus novos projetos.
