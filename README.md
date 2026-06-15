@@ -62,7 +62,7 @@ Quer trocar uma ideia ou me dar uma dica? Mande um e-mail!
 ## 🎉 Curiosidade divertida
 
 ![GIF animado](https://media.tenor.com/3RbvKNm4RAkAAAAj/jojo.gif)
-
+![](https://media.tenor.com/cCLNyfHNKk4AAAAj/jojo%27s-bizarre-adventure-jojo.gif)
 *"Programar é como resolver um quebra-cabeça... só que o computador é seu parceiro!"* 🧩
 
 ---
